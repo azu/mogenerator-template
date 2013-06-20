@@ -1,6 +1,6 @@
 # mogenerator-template
 
-mogenerator custom tempate
+ mogenerator custom template
 
 * add ``<$managedObjectClassName$>Object : NSObject {}``
 
