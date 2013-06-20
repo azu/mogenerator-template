@@ -1,0 +1,9 @@
+#import "_<$managedObjectClassName$>.h"
+
+@interface <$managedObjectClassName$> : _<$managedObjectClassName$> {}
+// Custom logic goes here.
+@end
+
+@interface <$managedObjectClassName$>Object : _<$managedObjectClassName$>Object {}
+// Custom logic goes here.
+@end

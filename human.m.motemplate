@@ -1,0 +1,22 @@
+#import "<$managedObjectClassName$>.h"
+
+
+@interface <$managedObjectClassName$> ()
+
+// Private interface goes here.
+
+@end
+
+
+@implementation <$managedObjectClassName$>
+
+// Custom logic goes here.
+
+@end
+
+
+@implementation <$managedObjectClassName$>Object
+
+// Custom logic goes here.
+
+@end
