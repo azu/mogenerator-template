@@ -1,6 +1,6 @@
 # mogenerator-template
 
- mogenerator custom template
+[mogenerator](https://github.com/rentzsch/mogenerator "rentzsch/mogenerator") custom template
 
 * add ``<$managedObjectClassName$>Object : NSObject {}``
 
@@ -17,7 +17,7 @@ Generator NSManagedObject & NSObject Model:
 
 ## Usage
 
-set mogenerator ``--template-path`` options 
+Set mogenerator ``--template-path`` options.
 
 ``--template-path /path/to/mogenerator-templates/``
 
@@ -29,6 +29,9 @@ e.g)
 	--template-path /path/to/mogenerator-templates/ \
 	--template-var arc=true
 
+See also
+
+* [documentation - How do the Mogenerator parameters work, which can I send via Xcode? - Stack Overflow](http://stackoverflow.com/questions/3589247/how-do-the-mogenerator-parameters-work-which-can-i-send-via-xcode "documentation - How do the Mogenerator parameters work, which can I send via Xcode? - Stack Overflow")
 
 ## Contributing
 
