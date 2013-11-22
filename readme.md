@@ -12,12 +12,12 @@ Generator NSManagedObject & NSObject Model:
 	@end
 	
 	@interface _GizmooModelObject : NSObject {}
-	@property (nonatomic, strong) NSDate* date;
+	@property (nonatomic, strong) NSDate* beginDate;
 	@end
 
 ## Usage
 
-Set mogenerator ``--template-path`` options.
+Setting mogenerator ``--template-path`` options.
 
 ``--template-path /path/to/mogenerator-templates/``
 
